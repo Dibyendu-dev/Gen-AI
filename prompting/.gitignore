@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+.env
+
+# Ignore the temp directory
+temp/
+
+# Ignore the node_modules directory
+node_modules/
